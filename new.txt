@@ -1,4 +1,6 @@
-full nsme: Borodulina irina Vasilyevna
-Age: 38
-number of pets: 1.
-future desired salary: 1500$
+	<full_name> Borodulina Irina Vasilyevna</full_name>
+	<age>38</age>
+	<number_of_pets>1</number_of_pets>
+	<future_desired_salary>2000</future_desired_salary>
+											</information_about_yourself>
+
